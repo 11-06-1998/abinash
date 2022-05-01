@@ -1,0 +1,4 @@
+salary of raman is 20000
+salary of rohit is 24000
+salary of duke is 43000
+up coming increment salary of kasyab is 50000
